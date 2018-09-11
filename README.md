@@ -2,7 +2,10 @@
 
 Provides several wrapper types for Ord and Eq implementations on f64.
 
-This is a fork of https://crates.io/crates/ordered-float
+This was a temporary fork of: https://crates.io/crates/ordered-float
+
+**This fork has been merged back into the original `ordered-float` crate and
+is no longer maintained.**
 
 ## Usage
 
